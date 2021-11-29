@@ -13,5 +13,5 @@ steps:
       from_secret: u_docker
     password:
       from_secret: p_docker
-    repo: 6791/nginxHelloWorld
+    repo: 6791/nginxhelloworld
     tags: "test_1"
